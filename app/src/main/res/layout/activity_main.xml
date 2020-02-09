@@ -27,11 +27,7 @@
             android:ems="10"
             android:inputType="textPersonName" />
 
-        <Button
-            android:id="@+id/button2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="浏览" />
+
 
         <WebView
             android:id="@+id/webview"
